@@ -1,6 +1,6 @@
-# Portfólio
-
 <img align="right" width="350" height="300" src="imgs/img_principal.png">
+
+# Portfólio
 
 ## Apresentações
     
