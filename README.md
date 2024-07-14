@@ -1,7 +1,6 @@
 # Portfólio
 
-<img align="center" width="350" height="300" src="imgs/img_principal.png">
-<br><br>
+<img align="center" width="350px" height="300" src="imgs/img_principal.png">
 
 ## Apresentações
     
