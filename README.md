@@ -15,4 +15,4 @@
   </p>
 </div>
 
-[![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]([https://#](https://github.com/M4y-D4y-23h/Linguagens/tree/main))
+[![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/M4y-D4y-23h/Linguagens/tree/main)
