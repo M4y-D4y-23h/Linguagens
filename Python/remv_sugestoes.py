@@ -2,6 +2,7 @@ import pyautogui
 
 # automatização especializada em remover sugestões indesejadas no google drive
 # Após inicializar o programa não use o teclado
+# Feito por: Kevin Ricardo
 
 numeracao = 0
 pyautogui.PAUSE = 5 # Tempo de espera entre cada comando do pyautogui
