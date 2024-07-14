@@ -1,4 +1,7 @@
 # Portfólio
+
+<img align="right" width="350" height="300" src="imgs/img_principal.png">
+
 ## Apresentações
     
   - Olá eu sou Kevin ricardo, seja bem-vindo ao meu repositório, antes de tudo conheça algumas das minhas redes:
@@ -8,8 +11,6 @@
   [![Logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4y-D4y-23h/Linguagens/tree/main)
 
 ## Tecnologias
-
-  <img align="right" width="350" height="300" src="imgs/img_principal.png">
   
 - Visite o repositório da linguagens python:
 
