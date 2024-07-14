@@ -18,8 +18,8 @@
   
 - Visite o repositório da linguagens C++:
 
-  [![Logo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/M4y-D4y-23h/Linguagens/tree/main/JavaScript)
+  [![Logo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/M4y-D4y-23h/Linguagens/tree/main/C%2B%2B)
   
 - Visite o repositório da linguagens JavaScript:
 
-  [![Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/M4y-D4y-23h/Linguagens/tree/main/C%2B%2B)
+  [![Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/M4y-D4y-23h/Linguagens/tree/main/JavaScript)
