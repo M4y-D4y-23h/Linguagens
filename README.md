@@ -15,10 +15,4 @@
   </p>
 </div>
 
-[Leia mais sobre o github]( https://gist.github.com/leocomelli/2545add34e4fec21ec16)
-<br/><br/>
-[Como usar o github - iniciantes](https://tecnoblog.net/responde/como-usar-o-github-guia-para-iniciantes/#:~:text=O%20GitHub%20%C3%A9%20uma%20plataforma,paga%20para%20empresas%20e%20profissionais.)
-<br/><br/>
-[Personalizando o github - 1° Video](https://youtu.be/cRoBt6AZgjc?si=TnwiZu1IKYhGt6uX)
-<br/><br/>
-[Personalizando o github - 2° Video](https://youtu.be/bWYiAW6Jook?si=1_adPA3PvxdLMTOl)
+[![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]([https://](https://github.com/M4y-D4y-23h/Linguagens))
